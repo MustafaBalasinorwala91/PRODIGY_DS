@@ -1,0 +1,17 @@
+I perform this task on "colab.research.google.com"
+
+Accuracy: 0.87
+
+Confusion Matrix:
+[[11086   880]
+ [  856   742]]
+
+Classification Report:
+              precision    recall  f1-score   support
+
+       False       0.93      0.93      0.93     11966
+        True       0.46      0.46      0.46      1598
+
+    accuracy                           0.87     13564
+   macro avg       0.69      0.70      0.69     13564
+weighted avg       0.87      0.87      0.87     13564
